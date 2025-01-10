@@ -39,7 +39,7 @@ This project implements a robust iris-based authentication system utilizing adva
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/enhanced-iris-authentication.git
+   git clone https://github.com/abhisheksr47/enhanced-iris-authentication
    ```
 2. Install the required dependencies:
    ```bash
