@@ -18,7 +18,7 @@ This project implements a robust iris-based authentication system utilizing adva
    - Annotate and preprocess the data for analysis.
 
 2. **Iris Segmentation**:
-   - Employ Canny Edge Detection and Hough Circle Transform to segment the iris accurately.
+   - Employ Label studio for accurate iris segmentation.
 
 3. **Normalization & Enhancement**:
    - Normalize and enhance iris images for uniform feature extraction.
