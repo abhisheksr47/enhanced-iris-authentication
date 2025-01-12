@@ -51,7 +51,7 @@ This project implements a robust iris-based authentication system utilizing adva
 - Python 3.8+
 - TensorFlow/PyTorch
 - OpenCV
-- PySEAL/TenSEAL (or other homomorphic encryption libraries)
+- PySEAL/TenSEAL 
 - NumPy
 - Pandas
 
